@@ -1,0 +1,6 @@
+{
+    "name": "23_jquery_basic", "version": "1.0.0", "keywords": [
+        "util", "functional", "server", "client", "browser"
+    ], "author": "pr08", "contributors": [
+    ], "dependencies": {}
+}
